@@ -3,8 +3,8 @@
 Official bug tracker and feature request hub for **QA Playground** - a purpose-built practice environment for QA automation engineers.
 
 [![Live](https://img.shields.io/badge/Live-qaplayground.com-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://www.qaplayground.com)
-[![GitHub Stars](https://img.shields.io/github/stars/kundalik-dev/qaplayground-support?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/kundalik-dev/qaplayground-support?label=Issues&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/kundalik-dev/qaplayground-support?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik-dev/qaplayground-support/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/kundalik-dev/qaplayground-support?label=Issues&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik-dev/qaplayground-support/issues)
 
 ---
 
@@ -27,7 +27,7 @@ It features four primary areas:
 
 Found a bug with an element, the Bank Demo, Study Tracker, or any other part of the site? Let us know!
 
-**[Report Bug →](https://github.com/kundalik5545/qaplayground-support/issues/new?template=bug_report.yml)**
+**[Report Bug →](https://github.com/kundalik-dev/qaplayground-support/issues/new?template=bug_report.yml)**
 
 ---
 
@@ -35,13 +35,13 @@ Found a bug with an element, the Bank Demo, Study Tracker, or any other part of 
 
 Have an idea to make QA Playground better for automation practice? We love community ideas!
 
-**[Request Feature →](https://github.com/kundalik5545/qaplayground-support/issues/new?template=feature_request.yml)**
+**[Request Feature →](https://github.com/kundalik-dev/qaplayground-support/issues/new?template=feature_request.yml)**
 
 ---
 
 ## Get Help
 
-**[Ask a Question →](https://github.com/kundalik5545/qaplayground-support/issues/new?template=question.yml)** | **[Support & FAQ →](https://github.com/kundalik5545/qaplayground-support/wiki)** | **[Discussions →](https://github.com/kundalik5545/qaplayground-support/discussions)**
+**[Ask a Question →](https://github.com/kundalik-dev/qaplayground-support/issues/new?template=question.yml)** | **[Support & FAQ →](https://github.com/kundalik-dev/qaplayground-support/wiki)** | **[Discussions →](https://github.com/kundalik-dev/qaplayground-support/discussions)**
 
 ---
 
@@ -86,7 +86,7 @@ _This is a support repository for bug reports and feature requests. The frontend
 - **Bank Demo App:** [https://www.qaplayground.com/bank](https://www.qaplayground.com/bank)
 - **Study Tracker:** [https://www.qaplayground.com/study-tracker](https://www.qaplayground.com/study-tracker)
 - **QA Tools:** [https://www.qaplayground.com/qa-tools](https://www.qaplayground.com/qa-tools)
-- **Support & FAQ:** [QA Playground Wiki](https://github.com/kundalik5545/qaplayground-support/wiki)
+- **Support & FAQ:** [QA Playground Wiki](https://github.com/kundalik-dev/qaplayground-support/wiki)
 
 ---
 
@@ -99,7 +99,7 @@ _This is a support repository for bug reports and feature requests. The frontend
 
 ## Enjoying QA Playground?
 
-- Leave review feedback or say hello in [Discussions](https://github.com/kundalik5545/qaplayground-support/discussions)
+- Leave review feedback or say hello in [Discussions](https://github.com/kundalik-dev/qaplayground-support/discussions)
 - Star this repository on GitHub
 - Share QA Playground with fellow QA engineers and automation learners
 
