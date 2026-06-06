@@ -3,8 +3,8 @@
 Official bug tracker and feature request hub for **QA Playground** - a purpose-built practice environment for QA automation engineers.
 
 [![Live](https://img.shields.io/badge/Live-qaplayground.com-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://www.qaplayground.com)
-[![GitHub Stars](https://img.shields.io/github/stars/kundalik5545/qaplayground-support?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/kundalik5545/qaplayground-support?label=Issues&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/kundalik-dev/qaplayground-support?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/kundalik-dev/qaplayground-support?label=Issues&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundalik5545/qaplayground-support/issues)
 
 ---
 
@@ -47,19 +47,19 @@ Have an idea to make QA Playground better for automation practice? We love commu
 
 ## Practice Elements (22 total)
 
-| # | Element | # | Element |
-|---|---------|---|---------|
-| 1 | POM (Page Object Model) | 12 | Drop Zone |
-| 2 | Inputs | 13 | Sort |
-| 3 | Buttons | 14 | Multi-Select |
-| 4 | Select / Dropdowns | 15 | Slider |
-| 5 | Links | 16 | Waits (explicit/implicit) |
-| 6 | Alerts (alert, confirm, prompt) | 17 | Simple Table |
-| 7 | iFrames | 18 | Advanced Table |
-| 8 | Radio Buttons & Checkboxes | 19 | Calendar / Date Picker |
-| 9 | Window / Tab Switching | 20 | Forms |
-| 10 | Element Visibility & State | 21 | File Upload / Download |
-| 11 | Drag & Drop | 22 | Shadow DOM |
+| #   | Element                         | #   | Element                   |
+| --- | ------------------------------- | --- | ------------------------- |
+| 1   | POM (Page Object Model)         | 12  | Drop Zone                 |
+| 2   | Inputs                          | 13  | Sort                      |
+| 3   | Buttons                         | 14  | Multi-Select              |
+| 4   | Select / Dropdowns              | 15  | Slider                    |
+| 5   | Links                           | 16  | Waits (explicit/implicit) |
+| 6   | Alerts (alert, confirm, prompt) | 17  | Simple Table              |
+| 7   | iFrames                         | 18  | Advanced Table            |
+| 8   | Radio Buttons & Checkboxes      | 19  | Calendar / Date Picker    |
+| 9   | Window / Tab Switching          | 20  | Forms                     |
+| 10  | Element Visibility & State      | 21  | File Upload / Download    |
+| 11  | Drag & Drop                     | 22  | Shadow DOM                |
 
 ---
 
@@ -72,7 +72,7 @@ Before submitting an issue:
 - **One issue per report** - Keep bug reports and feature requests focused on a single topic.
 - **No sensitive data** - Ensure any credentials, tokens, or private information are removed from logs and screenshots.
 
-*This is a support repository for bug reports and feature requests. The frontend source code is private.*
+_This is a support repository for bug reports and feature requests. The frontend source code is private._
 
 ---
 
